@@ -1,6 +1,6 @@
-# Oracle Cloud Infrastructure (OCI) Object Storage - Bucket Configuration
+# Oracle Cloud Infrastructure (OCI) Private Endpoint para OCI Object Storage
 
-Este arquivo **`readme.md`** descreve como configurar e provisionar buckets no **Oracle Cloud Infrastructure (OCI)** usando **Terraform**. A variável `private_endpoint_config` é responsável por definir as propriedades de cada bucket que será criado.
+Este arquivo **`readme.md`** descreve como configurar e provisionar Private Endpoint para OCI Object Storage no **Oracle Cloud Infrastructure (OCI)** usando **Terraform**. A variável `private_endpoint_config` é responsável por definir as propriedades de cada Private Endpoint que será criado.
 
 ---
 
